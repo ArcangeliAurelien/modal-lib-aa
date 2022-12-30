@@ -18,7 +18,7 @@ or
 
 1. Import the plugin:
 
-    `import ModalLibAA from "modal-lib-aa"`
+    `import { ModalLibAA } from "modal-lib-aa"`
 
 2. Use this code:
 
