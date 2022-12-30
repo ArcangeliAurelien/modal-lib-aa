@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './App.css';
-import ModalLibAA from './components/ModalTest';
+import ModalLibAA from './components/ModalLibAA';
 
 function App() {
   const [openModal, setOpenModal] = useState(false)
