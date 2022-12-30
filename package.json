@@ -2,7 +2,7 @@
   "name": "modal-lib-aa",
   "author": "Arcangeli Aurélien",
   "main": "dist/index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "files": [
     "dist",
